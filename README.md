@@ -9,3 +9,4 @@
 * [Лабораторная работа №1](./tensorflow/lab1) ([отчёт](./tensorflow/lab1/DIS_LR1.pdf)).
 * [Лабораторная работа №2](./tensorflow/lab2) ([отчёт](./tensorflow/lab2/DIS_lr2.pdf)).
 * [Лабораторная работа №3](./tensorflow/lab3) ([отчёт](./tensorflow/lab3/DIS_LR3.pdf)).
+* [Лабораторная работа №4](./tensorflow/lab4) ([отчёт](./tensorflow/lab4/DIS_LR4.pdf)).
