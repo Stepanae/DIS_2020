@@ -13,3 +13,4 @@
 * [Лабораторная работа №5](./tensorflow/lab5) ([отчёт](./tensorflow/lab5/DIS_lr5.pdf)).
 * [Лабораторная работа №6](./tensorflow/lab6) ([отчёт](./tensorflow/lab6/DIS_lr6.pdf)).
 * [Лабораторная работа №7](./tensorflow/lab7) ([отчёт](./tensorflow/lab7/DIS_lr7.pdf)).
+* [Домашнее задание](./tensorflow/lab7) ([data.tfrec](https://drive.google.com/drive/u/0/my-drive)).
